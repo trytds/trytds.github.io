@@ -1,21 +1,20 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Jin Shang
+== Jianting Ning
 
 ~~~
-{}{img_left}{photos/bio6.png}{alt text}{185px}{239px}
-[https://jshang2.github.io Jin Shang], Ph.D. \n 
-Senior Engineer at [https://www.us1.dgene.com/ DGene] \n
-Baton Rouge, Louisiana, United States \n
+{}{img_left}{photos/bio7.jpg}{alt text}{185px}{239px}
+[https://trytds.github.io Jianting Ning], Ph.D. \n 
+Professor at [https://www.us1.dgene.com/ DGene] \n
+Fujian Normal University, Fujian, China \n
 \n
-Email: astrostell@gmail.com \n
+Email: jtning88@gmail.com \n
 \[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
 ~~~
 
 
 
 
-at Baton Rouge, Louisiana, USA. (March 19, 2021)
-#at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
+
 
 #== News
 #- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
@@ -26,17 +25,15 @@ at Baton Rouge, Louisiana, USA. (March 19, 2021)
 #- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
-I'm currently working at [https://www.us1.dgene.com/ DGene] as a senior engineer. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
+I'm currently working at [https://www.us1.dgene.com/ DGene] as a senior engineer. I got my Ph.D. in Computer Science at Shanghai Jiaotong University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Zhenfu Cao ]. My research focuses on applied cryptography, data security, blockchain.
 
 == Education 
-- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
-- M.S. in Solid Mechanics, University of Science and Technology of China, Sept. 2013 - Jun. 2016
-- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sept. 2009 - Jun. 2013
+- Ph.D. in Computer Science and Technology, Shanghai Jiaotong University, Sept. 2013 - Dec. 2016
+- M.S. in Solid Mechanics, Yangzhou University, Sept. 2010 - Jun. 2013
+- B.S. in Computer Science and Technology, Yangzhou University, Sept. 2006 - Jun. 2010
 
 == Research Interests 
-- Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
-- Data Mining, Information Retrieval, Recommender System 
-- Computer Vision, Computer Graphics, Natural Language Processing
+- Applied Cryptography, Data Security, BlockChain, Optimization, Fairness 
 
 == Visitors
 ~~~
