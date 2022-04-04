@@ -2,11 +2,12 @@
 == Publications 
 
 === Conference
-- [pubs/CCS2021.pdf Leakage-Abuse Attack on Efficiently Deployable] \n
+- [pubs/CCS2021.pdf LEAP: Leakage-Abuse Attack on Efficiently Deployable,
+Efficiently Se archable En cryption wi th Partially Kn own Dataset] \n
 #- [https://dl.acm.org/doi/10.1145/3394486.3403246 List-wise fairness criterion for point processes] \n
 (research full paper, acceptance rate: 216/1279=16.89\%) \n
-*Jin Shang*, Mingxuan Sun, and Nina S. N. Lam \n
-in Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), San Diego, USA, Aug. 2020.
+*Jianting Ning*, Xinyi Huang, Geong Sen Poh, Jiaming Yuan, Yingjiu Li, Jian Weng and Robert H.Deng \n
+in Proc. of the ACM Conference on Computer and Communications Security (CCS), Seoul, Korea, Nov. 2021.
 
 
 - [pubs/CCS2019.pdf Geometric Hawkes processes with graph convolutional recurrent neural networks] \n
